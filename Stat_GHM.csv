@@ -1,0 +1,58 @@
+﻿GHM;Statistique;2018;2019;2020;2021
+01M31;Effectif;12614;11992;11446;12050
+01M31;Durée moyenne de séjour (en nuitée);6.68;6.52;6.51;6.2
+01M31;Ecart-Type;10.6;10.04;9.61;9.73
+01M31;Variance;112.32;100.75;92.3;94.63
+01M31;Coefficient de variation;158.56;153.94;147.55;156.83
+01M31;Durée de séjour Minimale (en nuitée);0;0;0;0
+01M31;Durée de séjour Maximale (en nuitée);607;301;257;186
+01M31;Mode de la durée de séjour (en nuitée);0;0;0;0
+01M31;Médiane de la durée de séjour (en nuitée);3;3;3;2
+01M31;10ème percentile de la durée de séjour (en nuitée);0;0;0;0
+01M31;95ème percentile de la durée de séjour (en nuitée);23;22;22;23
+01M31;Nombre de Décès;1190;1100;1149;1124
+01M31;Pourcentage de Décès;9.43;9.17;10.04;9.33
+01M31;Age Moyen;70.69;70.72;70.01;70.43
+01M31;Ecart-Type de l'age;18.45;18.33;18.8;18.23
+01M31;Nombre moyen de diagnostics associés;5.16;5.18;5.41;5.31
+01M31;Nombre moyen d'actes;4.24;4.22;4.22;4.17
+01M31;Nombre moyen d'actes classants;0.08;0.07;0.07;0.08
+01M31;Nombre moyen d'actes non classants;4.15;4.14;4.14;4.09
+ 01M30;Effectif;113125;115107;111113;112782
+ 01M30;Durée moyenne de séjour (en nuitée);9.99;9.95;9.71;9.79
+ 01M30;Ecart-Type;11.4;11.4;11.56;10.89
+ 01M30;Variance;129.9;129.97;133.55;118.52
+ 01M30;Coefficient de variation;114.09;114.61;119.07;111.2
+ 01M30;Durée de séjour Minimale (en nuitée);0;0;0;0
+ 01M30;Durée de séjour Maximale (en nuitée);671;488;747;429
+ 01M30;Mode de la durée de séjour (en nuitée);4;4;4;4
+ 01M30;Médiane de la durée de séjour (en nuitée);7;7;7;7
+ 01M30;10ème percentile de la durée de séjour (en nuitée);1;1;1;1
+ 01M30;95ème percentile de la durée de séjour (en nuitée);28;28;27;28
+ 01M30;Nombre de Décès;9693;9975;9476;9561
+ 01M30;Pourcentage de Décès;8.57;8.67;8.53;8.48
+ 01M30;Age Moyen;73.4;73.37;73.07;72.84
+ 01M30;Ecart-Type de l'age;15.28;15.23;15.26;15.31
+ 01M30;Nombre moyen de diagnostics associés;7.51;7.65;8.08;8.23
+ 01M30;Nombre moyen d'actes;5.47;5.39;5.32;5.3
+ 01M30;Nombre moyen d'actes classants;0.08;0.08;0.08;0.08
+ 01M30;Nombre moyen d'actes non classants;5.39;5.31;5.25;5.22
+01M36;Effectif;3648;3667;3586;3625
+01M36;Durée moyenne de séjour (en nuitée);0.64;0.65;0.63;0.63
+01M36;Ecart-Type;0.48;0.48;0.48;0.48
+01M36;Variance;0.23;0.23;0.23;0.23
+01M36;Coefficient de variation;74.73;73.5;76.75;76.45
+01M36;Durée de séjour Minimale (en nuitée);0;0;0;0
+01M36;Durée de séjour Maximale (en nuitée);1;1;1;1
+01M36;Mode de la durée de séjour (en nuitée);1;1;1;1
+01M36;Médiane de la durée de séjour (en nuitée);1;1;1;1
+01M36;10ème percentile de la durée de séjour (en nuitée);0;0;0;0
+01M36;95ème percentile de la durée de séjour (en nuitée);1;1;1;1
+01M36;Nombre de Décès;3648;3667;3586;3625
+01M36;Pourcentage de Décès;100;100;100;100
+01M36;Age Moyen;77.68;77.79;77.17;77.16
+01M36;Ecart-Type de l'age;14.05;14.09;13.91;14.16
+01M36;Nombre moyen de diagnostics associés;4.33;4.5;4.71;4.69
+01M36;Nombre moyen d'actes;5.88;5.92;5.4;5.19
+01M36;Nombre moyen d'actes classants;0.3;0.31;0.24;0.25
+01M36;Nombre moyen d'actes non classants;5.57;5.62;5.15;4.94
